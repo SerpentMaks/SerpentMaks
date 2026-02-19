@@ -3,7 +3,7 @@
 # 👋 Привет, я Максад!
 
 <!-- Анимация печатающегося текста -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=QA+Engineer;Manual+Testing+%26+Java+Background;Bug+Hunter+%F0%9F%90%9B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=QA+Engineer;Manual+QA+%26+Java+Background;Bug+Hunter+%F0%9F%90%9B)](https://git.io/typing-svg)
 
 **QA Engineer (Manual) с сильной технической базой**  
 *Махачкала, Россия*
