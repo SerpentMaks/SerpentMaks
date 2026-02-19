@@ -1,59 +1,65 @@
 <div align="center">
 
-# Крюков Максад Вячеславович  
-### QA Engineer (Manual) • Tech background
+# 👋 Привет, я Максад!
 
-Проверяю продукт **по логике и рискам**, а не “просто кликаю”.  
-Моя цель — чтобы релизы выходили **стабильно**, а баги находились **раньше пользователей**.
+<!-- Анимация печатающегося текста -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=QA+Engineer;Manual+Testing+%26+Java+Background;Bug+Hunter+%F0%9F%90%9B)](https://git.io/typing-svg)
 
-<br/>
+**Начинающий QA Engineer с бэкграундом в разработке**  
+*Махачкала, Россия*
 
-![QA Manual](https://img.shields.io/badge/QA-Manual-1f6feb?style=for-the-badge)
-![Open to work](https://img.shields.io/badge/Open%20to-Intern%20%2F%20Junior-2ea043?style=for-the-badge)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+[![](https://img.shields.io/badge/Telegram-Write%20Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Maksad18)
+[![](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maksadg2006@gmail.com)
 
 </div>
 
 ---
 
-## Коротко обо мне
-- Начинающий **QA Engineer (Manual)** с технической базой (углубленно изучал **Java**)
-- Люблю порядок: **чек-листы, тест-кейсы, трассируемость требований**
-- Сильная сторона — **понятные и воспроизводимые** баг-репорты
+### 🧐 Обо мне
+Я студент направления **"Программная инженерия"**, который выбрал качество продукта своей профессией. 
+Моё преимущество — **глубокое понимание кода** (Java/Python). Я не просто нахожу баги, я понимаю их природу, локализую причину и говорю с разработчиками на одном языке.
 
-## Что я делаю → что получает команда
-| Я делаю | Команда получает |
-|---|---|
-| Проверяю позитив/негатив, граничные значения, регресс, smoke | Меньше “вылетов” на прод и сюрпризов в релизе |
-| Описываю дефекты структурно: шаги → факт/ожидание → окружение → вложения | Быстрая воспроизводимость и экономия времени разработчиков |
-| Выделяю рисковые места и предлагаю, что проверить в первую очередь | Предсказуемое качество при ограниченном времени |
-
-## Инструменты
-- **Jira** — задачи/баги, статусы, приоритеты, коммуникация по дефектам
-- **Postman** — проверка API, коллекции, окружения
-
-## Техническая база
-- **Языки:** Java (углубленно), Python, C++, C#
-- Понимание ООП и принципов разработки помогает точнее искать причины дефектов
-
-## Образование и обучение
-- Университет: **Программная инженерия**
-- Курсы на **Stepik** (разные направления: разработка, тестирование, инструменты)
-
-## Локация
-- Махачкала, Россия
-
-## Контакты
-- Telegram: **@Maksad18**
-- Email: **maksadg2006@gmail.com**
+- 🔭 Сейчас я ищу: **Стажировку или Junior QA позицию**
+- 🌱 Активно изучаю: **Автоматизацию тестирования**
+- ⚡ Мой подход: **"Качество — это не случайность, а результат работы"**
 
 ---
 
-**Ищу:** стажировку / Junior QA (Manual).  
-**Вектор роста:** укреплять manual-экспертизу и постепенно двигаться к automation.
+### 🛠 Технический Арсенал
+
+<div align="center">
+
+| **Тестирование & Инструменты** | **Разработка & Языки** |
+|:---:|:---:|
+| ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+| ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| ![Manual QA](https://img.shields.io/badge/Manual_Testing-4caf50?style=for-the-badge) | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
+
+</div>
+
+---
+
+### 🔥 Ключевые навыки
+*   💻 **Функциональное тестирование:** Smoke, Regression, UI/UX, API.
+*   📝 **Документация:** Написание понятных тест-кейсов, чек-листов и баг-репортов.
+*   🧠 **Анализ:** Умею декомпозировать задачи и находить "узкие места" в требованиях.
+*   🎓 **Обучаемость:** Постоянно прохожу курсы (Stepik) и изучаю новые инструменты.
+
+---
+
+### 📊 GitHub Статистика
+
+<div align="center">
+
+[![Maksad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maksad18&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maksad18&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Создано с любовью к коду и качеству ❤️</sub>
+</div>
