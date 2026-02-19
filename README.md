@@ -1,16 +1,40 @@
-## Hi there 👋
+<!-- Профиль README (HR-friendly). Коротко, ярко, по делу -->
 
-<!--
-**SerpentMaks/SerpentMaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Крюков Максад Вячеславович — QA Engineer (Manual)
 
-Here are some ideas to get you started:
+Я начинающий **QA Engineer (Manual)** с сильной технической базой: понимаю, как устроена разработка, и поэтому тестирую не “по поверхности”, а **по логике и рискам**. Моя цель — помогать команде выпускать стабильные релизы: находить дефекты раньше, описывать их понятно и поддерживать порядок в тестовой документации.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![QA](https://img.shields.io/badge/QA-Manual-blue?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## Что я умею (и за что меня ценят)
+- Быстро вникаю в продукт и требования, задаю правильные уточняющие вопросы
+- Проверяю функционал **системно**: позитив/негатив, граничные значения, регресс, smoke
+- Пишу **сильные баг-репорты**: шаги, фактический/ожидаемый результат, окружение, приоритет/серьёзность, вложения
+- Формирую и поддерживаю **чек-листы** и базовые **тест-кейсы**, чтобы ничего не “выпадало”
+- Технический бэкграунд помогает находить причины дефектов и точнее описывать проблему
+
+## Инструменты
+- **Jira** — постановка задач и багов, статусы, приоритизация, коммуникация по дефектам
+- **Postman** — проверка API, коллекции, окружения
+
+## Техническая база
+- **Языки:** Java (углубленно), Python, C++, C#
+- Понимание ООП и принципов разработки (полезно для анализа логики и воспроизводимости багов)
+
+## Образование и обучение
+- Университет: **Программная инженерия**
+- Курсы на **Stepik** (разные направления: разработка, тестирование, инструменты)
+
+## Локация
+Махачкала, Россия
+
+## Контакты
+- Telegram: **@Maksad18**
+- Email: **maksadg2006@gmail.com**
+
+---
+Открыт к стажировкам и junior-позициям в QA (manual). Нацелен на рост до automation.
